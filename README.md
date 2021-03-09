@@ -1,4 +1,4 @@
-# myProWallet
+# myWallet
 Full-control BTC wallet/node
 
 ## Goals:
