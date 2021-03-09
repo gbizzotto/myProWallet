@@ -1,5 +1,5 @@
 # myWallet
-Full-control BTC wallet/node
+Full-control BTC wallet, to use with myNode.
 
 ## Goals:
 
